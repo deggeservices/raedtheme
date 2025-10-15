@@ -1,11 +1,11 @@
 {
-  "name": "theme-raed",
-  "version": "1.0.3",
-  "description": "Salla Theme",
+  "name": "my-salla-theme",
+  "version": "1.0.0",
+  "description": "Custom Salla Theme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SallaApp/theme-raed.git"
+    "url": ""
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
@@ -15,7 +15,7 @@
     "development": "webpack --mode development",
     "watch": "webpack --mode development --watch"
   },
-  "author": "Salla",
+  "author": "",
   "dependencies": {
     "@salla.sa/twilight": "^2.14.124",
     "@salla.sa/twilight-tailwind-theme": "^2.14.124",
